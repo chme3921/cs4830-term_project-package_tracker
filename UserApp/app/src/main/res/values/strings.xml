@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">User App</string>
+    <string name="Location">Package not found. Maybe not loaded yet</string>
+</resources>
